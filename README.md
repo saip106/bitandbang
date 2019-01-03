@@ -1,5 +1,5 @@
 # Introduction
-This is shamelessly copied from @bigandbang
+This is shamelessly copied from @bitandbang
 
 # Usage
 Via npx:
